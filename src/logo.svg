@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="110.302 222.001 278.426 253.65"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:bx="https://boxy-svg.com">
+	<g transform="matrix(1, 0, 0, 1, 146.528015, -32.457623)" style="">
+		<title>New</title>
+		<g style="" transform="matrix(1, 0, 0, 1, -163.96453, 190.145368)">
+			<title>New</title>
+			<path d="M 189.151 189.497 C 174.223 180.005 167.416 163.205 172.988 149.163 L 218.744 193.488 C 209.531 197.495 199.486 196.068 189.151 189.497 Z" style="stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(174, 171, 255);"/>
+			<path d="M 274.539 153.028 L 318.44 203.516 L 279.943 200.019 L 268.877 236.27 L 230.709 208.377 L 239.145 185.455 L 159.234 119.773 L 154.559 97.698 L 274.539 153.028 Z" class="st10" style="fill: rgb(123, 119, 255);">
+				<title>Body</title>
+			</path>
+			<path class="st13" d="M 356.177 211.761 L 327.688 208.424 C 344.31 221.177 349.068 242.758 338.608 258.95 C 324.994 280.302 289.6 273.423 275.127 246.484 C 283.008 267.835 302.926 284.6 324.421 287.897 C 362.537 293.771 383.889 256.228 362.824 220.261 C 359.958 215.245 357.621 213.122 356.177 211.761 Z" style="fill: rgb(163, 217, 255);">
+				<title>Front</title>
+			</path>
+			<polygon class="st11" points="325.015 204.129 382.272 209.902 371.849 179.296 285.222 134.021 269.128 138.783" style="fill: rgb(86, 80, 251);">
+				<title>Head</title>
+			</polygon>
+			<polygon class="st10" points="284.505 204.832 274.703 232.499 295.215 216.272 322.859 219.829 314.103 207.972" style="fill: rgb(81, 78, 164);" transform="matrix(0.999625, -0.027384, 0.027384, 0.999625, -5.925666, 8.181159)">
+				<title>Inlet</title>
+			</polygon>
+			<polygon class="st10" points="166.905 127.808 169.364 137.018 229.579 199.152 234.016 187.96" style="fill: rgb(81, 78, 164);" transform="matrix(0.999625, -0.027384, 0.027384, 0.999625, -5.201027, 5.952441)">
+				<title>BackEngine</title>
+			</polygon>
+		</g>
+		<g style="pointer-events: none; visibility: hidden;" transform="matrix(1, 0, 0, 1, -136.32426, 51.337507)">
+			<path d="M -67.684 133.665 H -61.852 V 145.328 H -50.189 V 151.16 H -61.852 V 162.824 H -67.684 V 151.16 H -79.348 V 145.328 H -67.684 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="cross -79.348 133.665 29.159 29.159 5.832 5.832 0.5 1@87965a84" bx:origin="-3.05 -3.303">
+				<title>XPoint</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -62.241 144.236 L 450.289 475.248">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 124.551 432.926 L 820.415 66.198">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 188.32 526.08 L 825.156 67.189">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 169.68 496.853 L 824.383 68.483">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 272.935 461.72 L 434.346 -202.049">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 74.309 403.738 L 431.974 -200.067">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 216.808 485.585 L 434.341 -201.065">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(200, 0, 255);" d="M 354.01 350.106 L 249.264 274.727">
+				<title>XY</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 26.439 326.289 L 822.926 68.072">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 185.515 442.589 L 434.198 -200.401">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -64.436 147.29 L 526.892 389.387">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -59.896 143.15 L 368.536 509.069" transform="matrix(0.999132, -0.041657, 0.041657, 0.999132, -11.645096, 3.348283)">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -65.26 147.614 L 496.306 430.666">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -65.07 148.192 L 430.214 446.203">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 83.556 468.166 L 434.842 -200.024">
+				<title>Y</title>
+			</path>
+			<path d="M 241.23 338.247 L 337.174 326.712 L 383.48 434.303 L 263.472 422.557 L 241.23 338.247 Z" style="stroke: rgb(0, 0, 0); fill: rgb(255, 0, 0); fill-opacity: 0.31;" transform="matrix(0.846568, 0.53228, -0.53228, 0.846568, 247.280314, -103.033845)">
+				<title>FrontWheelScale</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M 24.816 197.287 L 522.456 427.456">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 329.748 557.737 L 436.952 -199.644">
+				<title>Y</title>
+			</path>
+			<path d="M 820.625 51.984 H 826.457 V 63.648 H 838.12 V 69.48 H 826.457 V 81.143 H 820.625 V 69.48 H 808.961 V 63.648 H 820.625 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="cross 808.961 51.984 29.159 29.159 5.832 5.832 0.5 1@0c0e04e1" bx:origin="-3.05 -3.303">
+				<title>ZPoint</title>
+			</path>
+			<path d="M 430.959 -216.098 H 436.791 V -204.434 H 448.454 V -198.603 H 436.791 V -186.939 H 430.959 V -198.603 H 419.295 V -204.434 H 430.959 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="cross 419.295 -216.098 29.159 29.159 5.832 5.832 0.5 1@8dbb003f" bx:origin="-3.05 -3.303">
+				<title>YPoint</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 90.315 497.973 L 823.695 66.143">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 257.568 498.906 L 434.583 -201.318">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 274.985 584.675 L 434.91 -202.662">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(0, 200, 40); stroke-width: 2px;" d="M 34.071 353.649 L 823.266 66.293">
+				<title>Z</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 84.788 596.323 L 433.943 -200.546">
+				<title>Y</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke-width: 2px; stroke: rgb(0, 204, 255);" d="M 50.06 391.746 L 433.58 -200.772">
+				<title>Y</title>
+			</path>
+			<path d="M 137.236 258.981 L 202.791 250.084 L 213.042 318.03 L 138.582 311.473 L 137.236 258.981 Z" style="stroke: rgb(0, 0, 0); fill: rgb(255, 0, 0); fill-opacity: 0.31;" transform="matrix(0.846568, 0.53228, -0.53228, 0.846568, 181.323293, -31.973869)">
+				<title>BackWheelScale</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -289.662 28.144 L 203.401 361.764" transform="matrix(1, 0, 0, 1, 225.080797, 118.222853)">
+				<title>X</title>
+			</path>
+			<path style="fill: rgb(216, 216, 216); stroke-miterlimit: 1; stroke-dasharray: 5px; stroke: rgb(255, 0, 0); stroke-width: 2px;" d="M -557.136 -154.347 L -69.713 207.005" transform="matrix(1, 0, 0, 1, 492.07211, 302.28239)">
+				<title>X</title>
+			</path>
+		</g>
+	</g>
+</svg>
